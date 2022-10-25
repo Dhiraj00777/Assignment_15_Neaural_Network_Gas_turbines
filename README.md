@@ -1,4 +1,4 @@
-# Assignment_15_Neaural_Network_Gas_turbiness
+# Assignment_15_Neaural_Network_Gas_turbines
 
 File:gas_turbines.csv
 
